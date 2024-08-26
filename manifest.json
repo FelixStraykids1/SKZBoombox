@@ -1,0 +1,10 @@
+{
+    "name": "StrayKidsBoombox",
+    "version_number": "1.0.0",
+    "website_url": "https://github.com/FelixStraykids1/SKZBoombox",
+    "description": "The mod is a Stray Kids boombox mod that has songs from different eras for the boombox",
+    "dependencies": [
+        "BepInEx-BepInExPack-5.4.2100"
+        "LethalAPI-1.0.0"
+    ]
+}
