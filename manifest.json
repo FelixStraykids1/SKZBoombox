@@ -1,0 +1,10 @@
+{
+    "name": "Stray Kids Boombox",
+    "version_number": "1.0.0",
+    "website_url": "",
+    "description": "A Stray Kids Boombox that plays Stray Kids songs.",
+  "dependencies": [
+    "CodeEnder-Custom_Boombox_Fix-1.2.2",
+    "FutureSavior-Boombox_Sync_Fix-1.1.2"
+  ]
+}
